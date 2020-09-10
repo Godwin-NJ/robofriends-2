@@ -1,0 +1,1 @@
+# robofriends-2 -> This a react app where we built a progressive Web App showing different robots which is pulled from a free API source. There is also a search bar, which is very interactive in searching for robot types by character 
